@@ -1,5 +1,6 @@
 # root@ammartahir06:~# nmap -sV ammartahir.core
 
+```bash
 ┌──(ammartahir06㉿core-node-01)-[/home/ammar]
 └─$ cat profile.json
 {
@@ -13,7 +14,6 @@
   ],
   "uptime": "9+ Years in Production"
 }
-
 ---
 
 ### ⚡ ACTIVE CORE OPERATIONS
