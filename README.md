@@ -15,7 +15,7 @@
   "uptime": "9+ Years in Production"
 }
 ---
-
+```
 ### ⚡ ACTIVE CORE OPERATIONS
 
 *   **Coaade Code 2.0 & 1.0** 
@@ -38,7 +38,6 @@
 ■ Orchestration/Ops  :: Kubernetes | GitHub Actions | VPC/VPN Mesh Networking | Docker
 ■ Data Layer         :: Enterprise PostgreSQL | AlloyDB | Redis | ElastiCache | Neo4j (Graph)
 ```
-
 ---
 
 ### 📡 LATEST PROJECTS & SOURCE REPOS
